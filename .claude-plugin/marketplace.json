@@ -1,0 +1,17 @@
+{
+  "name": "typehop",
+  "owner": {
+    "name": "TypeHop",
+    "email": "support@typehop.com"
+  },
+  "metadata": {
+    "description": "TypeHop: search, read and use your voice dictations from your AI assistant."
+  },
+  "plugins": [
+    {
+      "name": "typehop",
+      "source": "./",
+      "description": "Search, read and turn your TypeHop voice dictations into specs, task lists and recaps."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "typehop",
+  "displayName": "TypeHop",
+  "version": "1.0.0",
+  "description": "Use what you've said out loud. Search, read and turn your TypeHop voice dictations into specs, task lists and recaps.",
+  "author": {
+    "name": "TypeHop",
+    "email": "support@typehop.com",
+    "url": "https://typehop.com"
+  },
+  "homepage": "https://typehop.com/mcp",
+  "repository": "https://github.com/typehop/typehop-plugin",
+  "license": "MIT",
+  "keywords": ["dictation", "voice", "speech-to-text", "notes", "voice-notes", "transcription", "mcp"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://typehop.com/mcp",
+  "supportUrl": "https://typehop.com/mcp",
+  "privacyPolicyUrl": "https://typehop.com/legal/privacy",
+  "termsOfServiceUrl": "https://typehop.com/legal/tos"
+}
